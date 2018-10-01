@@ -1,0 +1,566 @@
+body{font-family:Lato}h1,h2,h3,h4,h5,h6{font-weight:700;font-family:Microsoft Sans Serif}hr.star-dark,hr.star-light{max-width:15rem;padding:0;text-align:center;border:none;border-top:solid .25rem;margin-top:2.5rem;margin-bottom:2.5rem;margin-left:auto;margin-right:auto}hr.star-dark:after,hr.star-light:after{position:relative;top:-.8em;display:inline-block;padding:0 .25em;content:'\f005';font-family:FontAwesome;font-size:2em}hr.star-light{border-color:#fff}hr.star-light:after{color:rgb(255,255,255,0);background-color:#}hr.star-dark{border-color:#2c3e50}hr.star-dark:after{color:#2c3e50;background-color:#fff}section{padding:6rem 0}section h2{font-size:2.25rem;line-height:2rem}@media (min-width:992px){section h2{font-size:3rem;line-height:2.5rem}}.btn-xl{padding:1rem 1.75rem;font-size:1.25rem}.btn-social{width:3.25rem;height:3.25rem;font-size:1.25rem;line-height:2rem}.scroll-to-top{z-index:1042;right:1rem;bottom:1rem;display:none}.scroll-to-top a{width:3.5rem;height:3.5rem;background-color:rgba(33,37,41,.5);line-height:3.1rem}#mainNav{padding-top:1rem;padding-bottom:1rem;font-weight:700;font-family:Microsoft Sans Serif}#mainNav .navbar-brand{color:#fff}#mainNav .navbar-nav{margin-top:1rem;letter-spacing:.0625rem}#mainNav .navbar-nav li.nav-item a.nav-link{color:#fff}#mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#18bc9c}#mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{color:#fff}#mainNav .navbar-nav li.nav-item a.nav-link.active{color:#18bc9c}#mainNav .navbar-toggler{font-size:80%;padding:.8rem}@media (min-width:992px){#mainNav{padding-top:1.5rem;padding-bottom:1.5rem;-webkit-transition:padding-top .3s,padding-bottom .3s;-moz-transition:padding-top .3s,padding-bottom .3s;transition:padding-top .3s,padding-bottom .3s}#mainNav .navbar-brand{font-size:2em;-webkit-transition:font-size .3s;-moz-transition:font-size .3s;transition:font-size .3s}#mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#18bc9c}#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color: green;background:#18bc9c}#mainNav.navbar-shrink{padding-top:.5rem;padding-bottom:.5rem}#mainNav.navbar-shrink .navbar-brand{font-size:1.5em}}header.masthead{padding-top:calc(6rem + 72px);padding-bottom:6rem}header.masthead h1{font-size:3rem;line-height:3rem}header.masthead h2{font-size:1.3rem;font-family:Lato}@media (min-width:992px){header.masthead{padding-top:calc(6rem + 106px);padding-bottom:6rem}header.masthead h1{font-size:4.75em;line-height:4rem}header.masthead h2{font-size:1.75em}}.portfolio{margin-bottom:-15px}.portfolio .portfolio-item{position:relative;display:block;max-width:25rem;margin-bottom:15px}.portfolio .portfolio-item .portfolio-item-caption{-webkit-transition:all ease .5s;-moz-transition:all ease .5s;transition:all ease .5s;opacity:0;background-color:rgba(24,188,156,.9)}.portfolio .portfolio-item .portfolio-item-caption:hover{opacity:1}.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content{font-size:1.5rem}@media (min-width:576px){.portfolio{margin-bottom:-30px}.portfolio .portfolio-item{margin-bottom:30px}}.portfolio-modal .portfolio-modal-dialog{padding:3rem 1rem;min-height:calc(100vh - 2rem);margin:1rem calc(1rem - 8px);position:relative;z-index:2;-moz-box-shadow:0 0 3rem 1rem rgba(0,0,0,.5);-webkit-box-shadow:0 0 3rem 1rem rgba(0,0,0,.5);box-shadow:0 0 3rem 1rem rgba(0,0,0,.5)}.portfolio-modal .portfolio-modal-dialog .close-button{position:absolute;top:2rem;right:2rem}.portfolio-modal .portfolio-modal-dialog .close-button i{line-height:38px}.portfolio-modal .portfolio-modal-dialog h2{font-size:2rem}@media (min-width:768px){.portfolio-modal .portfolio-modal-dialog{min-height:100vh;padding:5rem;margin:3rem calc(3rem - 8px)}.portfolio-modal .portfolio-modal-dialog h2{font-size:3rem}}.floating-label-form-group{position:relative;border-bottom:1px solid #e9ecef}.floating-label-form-group input,.floating-label-form-group textarea{font-size:1.5em;position:relative;z-index:1;padding-right:0;padding-left:0;resize:none;border:none;border-radius:0;background:0 0;box-shadow:none!important}.floating-label-form-group label{font-size:.85em;line-height:1.764705882em;position:relative;z-index:0;top:2em;display:block;margin:0;-webkit-transition:top .3s ease,opacity .3s ease;-moz-transition:top .3s ease,opacity .3s ease;-ms-transition:top .3s ease,opacity .3s ease;transition:top .3s ease,opacity .3s ease;vertical-align:middle;vertical-align:baseline;opacity:0}.floating-label-form-group:not(:first-child){padding-left:14px;border-left:1px solid #e9ecef}.floating-label-form-group-with-value label{top:0;opacity:1}.floating-label-form-group-with-focus label{color:#18bc9c}form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}.footer{padding-top:5rem;padding-bottom:5rem;background-color:#2c3e50;color:#fff}.copyright{background-color:#1a252f}a{color:#18bc9c}a:active,a:focus,a:hover{color:#128f76}.btn{border-width:2px}.bg-primary{background-color:#18bc9c!important}.bg-secondary{background-color:#2c3e50!important}.text-primary{color:#18bc9c!important}.text-secondary{color:#2c3e50!important}.btn-primary{background-color:#18bc9c;border-color:#18bc9c}.btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#128f76;border-color:#128f76}.btn-secondary{background-color:#2c3e50;border-color:#2c3e50}.btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#1a252f;border-color:#1a252f}
+
+#contact {
+  background: #fff;
+}
+
+#contact .info {
+  color: #222;
+}
+
+#contact .info i {
+  font-size: 32px;
+  color: #18BC9C;
+  float: left;
+}
+
+#contact .info p {
+  padding: 0 0 10px 50px;
+  margin-bottom: 20px;
+  line-height: 22px;
+  font-size: 14px;
+}
+
+#contact .info .email p {
+  padding-top: 5px;
+}
+
+#contact .social-links {
+  padding-bottom: 20px;
+}
+
+#contact .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #18BC9C;
+  color: #fff;
+  line-height: 1;
+  padding: 6px 0 8px 0;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+.text-greenish{
+	color: #18BC9C;
+}
+
+
+#contact .social-links a:hover {
+  background: #18BC9c;
+  color: #fff;
+}
+
+#contact .form #sendmessage {
+  color: #18BC9C;
+  border: 1px solid #18BC9C;
+  display: none;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#contact .form #errormessage {
+  color: red;
+  display: none;
+  border: 1px solid red;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+#contact .form #sendmessage.show, #contact .form #errormessage.show, #contact .form .show {
+  display: block;
+}
+
+#contact .form .validation {
+  color: red;
+  display: none;
+  margin: 0 0 20px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+#contact .form input, #contact .form textarea {
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  padding: 12px 20px;
+  line-height: 1;
+}
+
+#contact .form button[type="submit"] {
+  background: #18BC9C;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+}
+
+#contact .form button[type="submit"]:hover {
+  background: #18BC9C;
+
+}
+.font-larger{
+	font-size: 60px;
+	color: #2c3e50;
+}
+.lin{
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.hrs{
+	background-color: #18BC9C;
+	font-size: 200px;
+	height: 5px;
+	border-radius: 400px;
+	width: 300px;
+	opacity: 0.2;
+}
+#hero .btn-get-started {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 11px 36px;
+  border-radius: 50px;
+  margin-top: 20px;
+  border: 2px solid #18bc9c;
+  font-size: 200px;;
+  background: #fff;
+  color: #18bc9c;
+  text-decoration: none;
+}
+
+#hero .btn-get-started:hover {
+  background: #18bc9c;
+  color: #fff;
+}
+
+#hero .btns a {
+  color: #555;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: 4px 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.text-inc{
+	font-size: 20px;
+}
+
+.suscribe-area {
+  background: #18bc9c none repeat scroll 0 0;
+  padding: 30px 0;
+}
+
+.suscribe-text {
+  display: block;
+  padding: 10px 0;
+}
+
+.suscribe-text h3 {
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.sus-btn {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid #fff;
+  color: #18bc9c;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px 20px;
+  margin-left: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 30px;
+}
+
+.sus-btn:hover {
+  background: #18bc9c none repeat scroll 0 0;
+  border: 2px solid #fff;
+  color: #fff;
+}
+@media (max-width: 600px){
+	.font-larger{
+		font-size: 40px;
+	}
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 14px;
+    padding-right: 20px;
+    background-color: #2c3e50;
+    color: white;
+}
+
+.modal-body {padding: 10px 0px 0px 0px ; }
+
+.aliana{
+  height: 150px;  margin-top: -90px; margin-bottom: -30px; width: 600px; padding-bottom: -80px;
+}
+
+.pos{
+  margin-left: 35%;
+}
+
+.und{
+  background-color: #2c3e50;
+  font-size: 200px;
+  height: 5px;
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px;
+  width: 150px;
+}
+
+@media (max-width: 530px){
+  #aliana{
+    height: 100px
+  }
+
+  .copyright{
+    text-align: center;
+  }
+}
+
+
+
+
+
+.margin-l{
+  margin-left: 30px;
+}
+.margin-r{
+  margin-right: 30pc;
+}
+
+/* Style the buttons that are used to open and close the accordion panel */
+button.accordion {
+    cursor: pointer;
+    font-size: 20px;
+    color: #18bc9c;
+    padding: 10px;
+    text-align: center;
+    border: solid 2px #18bc9c ;
+    transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+button.accordion.active, button.accordion:hover {
+  background-color: #18bc9c;
+  border-color: #18bc9c;
+  color: #fff;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+div.panel {
+    padding: 0 18px;
+    display: none;
+}
+
+/* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
+div.panel.show {
+    display: block !important;
+}
+
+
+div.panel {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: auto;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.panel.show {
+    opacity: 1;
+    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
+}
+
+
+
+.button {
+	margin-top: 520px;
+	text-align: left;
+	font-size: 40px;
+	height: 60px;
+	color: #18bc9c;
+	padding-bottom: 10px;
+	padding-right: 15px;
+
+	clear: both;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border: none;
+	padding-left: 10px;
+	background-color: #2c3e50;
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0; 
+    -webkit-animation-delay: 2.9s;
+    animation-delay: 2.9s;
+    animation: jump 1.9s infinite;
+    transition: 1s;
+
+}
+.button:hover{
+	  animation: none;
+	  border-bottom-left-radius: 0px;	  
+}
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: 'SEND MAIL';
+  position: absolute;
+  opacity: 0;
+  font-size: 15px;
+  padding-top: 12px;
+  color: #18bc9c;
+  font-family: Berlin Sans FB;
+  top: 0;
+  right: -20px;
+  transition: 1s;
+}
+
+.button:hover span {
+  padding-right: 95px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+#features{
+	margin-top: -40px;
+}
+
+
+
+
+/* Style the buttons that are used to open and close the accordion panel */
+button.accor {
+    margin-top: 520px;
+	text-align: left;
+	font-size: 40px;
+	height: 60px;
+	color: #18bc9c;
+	padding-right: 15px;
+	border-radius: 3px;
+	clear: both;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border: none;
+	padding-left: 10px;
+	background-color: #2c3e50;
+    position: fixed; /* Stay in place */
+    left: 0;
+    top: 0; 
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+
+
+/* Style the accordion panel. Note: hidden by default */
+div.pan {
+    padding: 0 18px;
+    display: none;
+}
+
+/* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
+div.pan.show {
+    display: block !important;
+}
+
+
+div.pan {
+    padding: 0 18px;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.6s ease-in-out;
+    opacity: 0;
+}
+
+div.pan.show {
+    opacity: 1;
+    max-height: 500px; /* Whatever you like, as long as its more than the height of the content (on all screen sizes) */
+}
+
+
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes jump {
+    from {left: 0px;}
+    to {left: 10px;}
+}
+
+/* Standard syntax */
+@keyframes jump {
+    from {left: 0px;}
+    to {left: 10px;}
+}
+
+#footer{
+  font-weight: 190px;
+  color: green;
+}
+
+.colorish{
+	color: #67cdfd;
+}
+
+
+.text-smaller{
+  font-size: 40px;
+}
+
+
+
+
+
+/*========================
+ php mailer masinifsnndfjjdasf
+==========================*/
+
+html,
+body {
+  height: 100%;
+}
+body {
+  display: grid;
+}
+.check {
+  cursor: pointer;
+  position: relative;
+  margin: auto;
+  width: 18px;
+  height: 18px;
+  -webkit-tap-highlight-color: transparent;
+  transform: translate3d(0, 0, 0);
+}
+.check:before {
+  content: "";
+  position: absolute;
+  top: -10px;
+  left: -15px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50px;
+
+
+  transition: opacity 0.s ease;
+}
+.check svg {
+  position: relative;
+  z-index: 1;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke: #2c3e50;
+  stroke-width: 1.5;
+  transform: translate3d(0, 0, 0);
+  transition: all 0.2s ease;
+}
+.check svg path {
+  stroke-dasharray: 60;
+  stroke-dashoffset: 0;
+}
+.check svg polyline {
+  stroke-dasharray: 22;
+  stroke-dashoffset: 66;
+}
+.check:hover:before {
+  opacity: 1;
+}
+.check:hover svg {
+  stroke: #2c3e50;
+}
+#cbx:checked + .check svg {
+  stroke: #2c3e50;
+}
+#cbx:checked + .check svg path {
+  stroke-dashoffset: 60;
+  transition: all 0.3s linear;
+}
+#cbx:checked + .check svg polyline {
+  stroke-dashoffset: 42;
+  transition: all 0.2s linear;
+  transition-delay: 0.15s;
+}
